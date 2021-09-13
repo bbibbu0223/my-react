@@ -1,0 +1,27 @@
+[
+    {
+        "title": "SWJA Playlist",
+        "img": "img/M-01.png",
+        "text": "좋아하는 노래1 ",
+        "link": "https://youtu.be/P9CrBwotfW0"
+    },
+    {
+        "title": "Shake it!(Muscle Edit) · BLACKJAXX",
+        "img": "img/M-03.png",
+        "text": "좋아하는 노래2",
+        "link": "https://youtu.be/wug_udVrPP4"
+    },
+    {
+        "title": "DA￦N(다운) · 마지막(live hall)[prod. N O V E L]",
+        "img": "img/M-02.png",
+        "text": "좋아하는 노래3",
+        "link": "https://youtu.be/nzAhn5MRs4E"
+    },
+    {
+        "title": "요루시카 · 꽃에 망령(OFFICIAL VIDEO)",
+        "img": "img/M-04.png",
+        "text": "좋아하는 노래4",
+        "link": "https://youtu.be/9lVPAWLWtWc"
+    }
+    
+]
